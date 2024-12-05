@@ -44,7 +44,7 @@ Modifier Genes:
 
 | SNP ID  | SNP Position | Ref | 	Alt | NES | P-value |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| rs28568999 | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+| rs28568999 | 28516305  | C  | T  | -0.36  | 1.20E-13  |
 | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
 
