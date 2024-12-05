@@ -49,3 +49,5 @@ Modifier Genes:
 | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
 
 # Genetic Mechanism Hypothesis
+Cystic Fibrosis is caused by disregulation of mucus associated genes in the lungs.
+
