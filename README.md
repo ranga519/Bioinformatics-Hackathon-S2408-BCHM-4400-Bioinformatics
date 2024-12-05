@@ -1,3 +1,42 @@
 # Bioinformatics-Hackathon-S2408-BCHM-4400-Bioinformatics
 
 # A look into: _**Cystic Fibrosis**_
+By: Ranga Baminiwatte, Emily Willis, Alex McIntosh, Ian Hendley
+
+# What is Cystic Fibrosis?
+Cystic Fibrosis is a genetic condition that mainly affects the respiratory, digestive, and reproduction systems by causing the production of thick, sticky mucus that can obstruct various organs.
+* Symptoms include 
+```
+* Affecting the respiratory track with: persistent coughing with thick mucus, wheezing, shortness of breath, and reccurring lung infections
+* Affecting the digestive system with: Poor weight gain and growth, severe constipatuion with greasy, bulky stools, and intestinal blockages in newborns
+* Affecting the reproductive system with: male infertility and decreased fertility in females
+* As well as: fatigue and clubbing of fingers and toes
+```
+* Diagnostic methods include: 
+```
+* Newborn Screening
+* Sweat Chloride Test
+* Genetic Testing and clinical evaluation
+* Pulmonary Function Test
+* Chest X-rays and CT scan and sputum culture
+```
+There is currently no cure for Cystic Fibrosis, only treatments available to manage symptoms. 
+These treatments include:
+* For more minimal symptoms like infections and mucus build up: antibiotics, diet changes, and physical therapy can be used. 
+* More serious symptoms may require surgery and in extreme cases lung transplants. Recently, gene therapy has been used in treatments.
+
+# The Genetics of Cystic Fibrosis
+The primary gene involved is the **CFTR** gene. Other genes include: SLC26A9, EDNRA, IFRD1, MBL2, TGFβ1
+Key points about the CFTR gene:
+* Over 2,000 mutations have been identified in the CFTR gene.
+* The most common mutation is F508del, a deletion of phenylalanine at position 508.
+* Different mutations can lead to various levels of CFTR protein dysfunction, resulting in a spectrum of disease severity.
+
+Modifier Genes:
+* While CFTR mutations are the primary cause of CF, the severity and progression of the disease can be influenced by other genes, known as modifier genes 5.
+
+# Protein:Protein Interaction (PPI) network using the known gene protein product(s) as seeds
+
+# Tissue-specific eQTLs DNA polymorphisms that could alter the expression of candidate genes
+
+# Genetic Mechanism Hypothesis
