@@ -37,6 +37,15 @@ Modifier Genes:
 
 # Protein:Protein Interaction (PPI) network using the known gene protein product(s) as seeds
 
+![image](https://github.com/user-attachments/assets/fd276574-67a5-4bf1-b8f3-e31a108eea5f)
+
+
 # Tissue-specific eQTLs DNA polymorphisms that could alter the expression of candidate genes
+
+| SNP ID  | SNP Position | Ref | 	Alt | NES | P-value |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
 
 # Genetic Mechanism Hypothesis
