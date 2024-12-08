@@ -20,10 +20,11 @@ Cystic Fibrosis is a genetic condition that mainly affects the respiratory, dige
 * Pulmonary Function Test
 * Chest X-rays and CT scan and sputum culture
 ```
-There is currently no cure for Cystic Fibrosis, only treatments available to manage symptoms. 
+There is currently no cure for Cystic Fibrosis, only treatments to manage symptoms. Treatments depend on the severity of the disease and symptoms already present.
 These treatments include:
-* For more minimal symptoms like infections and mucus build up: antibiotics, diet changes, and physical therapy can be used. 
-* More serious symptoms may require surgery and in extreme cases lung transplants. Recently, gene therapy has been used in treatments.
+* For more minimal symptoms like infections and mucus build up: antibiotics (inhaled, oral, and intravenous), diet changes, and physical therapy can be used. 
+* More serious symptoms may require surgery and in extreme cases lung transplants.
+* Recently, gene therapy has been used in treatments, however with current technologies and limited resources the effectiveness has not shown a breakthrough yet.
 
 # The Genetics of Cystic Fibrosis
 The primary gene involved is the **CFTR** gene. Other genes include: SLC26A9, EDNRA, IFRD1, MBL2, TGFβ1
