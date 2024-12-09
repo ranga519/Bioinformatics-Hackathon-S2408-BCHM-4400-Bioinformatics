@@ -46,8 +46,12 @@ Modifier Genes:
 | SNP ID  | SNP Position | Ref | 	Alt | NES | P-value |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | rs28568999 | 28516305  | C  | T  | -0.36  | 1.20E-13  |
-| Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+| rs9969206  | 117778400  | T  | G  | 0.79  | 7.60E-09  |
+| rs9969206  | 117778400  | T  | G  | 0.59  | 1.80E-08  |
+| rs9969206  | 117778400  | T  | G  | -0.31  | 3.40E-07  |
+| rs9969206  | 117778400  | T  | G  | 0.62  | 1.1E-06  |
+| rs9969206  | 117778400  | T  | G  | -0.22  | 6.8E-05  |
+| rs9969206  | 117778400  | T  | G  | -0.25  | 8.6E-05  |
 
 # Genetic Mechanism Hypothesis
 Cystic Fibrosis is caused by disregulation of mucus associated genes in the lungs.
