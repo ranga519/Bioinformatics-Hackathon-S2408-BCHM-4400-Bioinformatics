@@ -60,7 +60,7 @@ Ranga Baminiwatte: Task D. Building a protein:protein interaction (PPI) network.
 
 Emily Willis: 
 
-Alex McIntosh: 
+Alex McIntosh: Miscellaneous formatting and Task B: Treatments of Cystic Fibrosis
 
 Ian Hendley: 
 
