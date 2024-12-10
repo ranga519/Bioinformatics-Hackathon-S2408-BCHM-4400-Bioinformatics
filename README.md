@@ -36,6 +36,10 @@ Key points about the CFTR gene:
 Modifier Genes:
 * While CFTR mutations are the primary cause of CF, the severity and progression of the disease can be influenced by other genes, known as modifier genes 5.
 
+Molecular Function of CFTR gene:
+* The primary function of CFTR is to act as a cAMP-regulated chloride channel. It allows the passage of chloride ions across epithelial cell membranes, which is crucial for maintaining proper salt and water balance in various organs, particularly in the lungs, pancreas, and sweat glands. 
+* Other functions include channel gating, regulation of other ion channels, bicarbonate transport, Cellular Homeostasis, Epithelial Fluid Secretion, other protein interactions, innate defenses, and some developmental roles.  
+
 # Protein:Protein Interaction (PPI) network using the known gene protein product(s) as seeds
 
 ![image](https://github.com/user-attachments/assets/fd276574-67a5-4bf1-b8f3-e31a108eea5f)
