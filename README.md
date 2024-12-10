@@ -56,7 +56,7 @@ Modifier Genes:
 Cystic Fibrosis is caused by disregulation of mucus associated genes in the lungs.
 
 # Contributions
-Ranga Baminiwatte:
+Ranga Baminiwatte: Task D. Building a protein:protein interaction (PPI) network for given Gene.
 Emily Willis: 
 Alex McIntosh: 
 Ian Hendley: 
