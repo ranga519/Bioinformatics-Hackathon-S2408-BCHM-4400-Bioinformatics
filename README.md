@@ -1,7 +1,7 @@
 # Bioinformatics-Hackathon-S2408-BCHM-4400-Bioinformatics
 
 # A look into: _**Cystic Fibrosis**_
-By: Ranga Baminiwatte, Emily Willis, Alex McIntosh, Ian Hendley
+By: Ranga Baminiwatte, Emily Willis, Alex McIntosh, Ian Hendley, Gabriela Grant
 
 # What is Cystic Fibrosis?
 Cystic Fibrosis is a genetic condition that mainly affects the respiratory, digestive, and reproduction systems by causing the production of thick, sticky mucus that can obstruct various organs.
@@ -45,7 +45,6 @@ Modifier Genes:
 
 | SNP ID  | SNP Position | Ref | 	Alt | NES | P-value |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| rs28568999 | 28516305  | C  | T  | -0.36  | 1.20E-13  |
 | rs9969206  | 117778400  | T  | G  | 0.79  | 7.60E-09  |
 | rs9969206  | 117778400  | T  | G  | 0.59  | 1.80E-08  |
 | rs9969206  | 117778400  | T  | G  | -0.31  | 3.40E-07  |
@@ -56,3 +55,9 @@ Modifier Genes:
 # Genetic Mechanism Hypothesis
 Cystic Fibrosis is caused by disregulation of mucus associated genes in the lungs.
 
+# Contributions
+Ranga Baminiwatte:
+Emily Willis: 
+Alex McIntosh: 
+Ian Hendley: 
+Gabriela Grant:
