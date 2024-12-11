@@ -57,15 +57,15 @@ Normal Molecular Functions of CFTR gene:
 | rs9969206  | 117778400  | T  | G  | -0.25  | 8.6E-05  |
 
 # Genetic Mechanism Hypothesis
-Cystic Fibrosis is caused by disregulation of mucus associated genes in the lungs.
+We hypothesize that SNP rs9969206 (T>G) functions as a tissue-specific regulator. By interacting with cell type-specific regulatory elements, such as enhancers or promoters, this SNP likely influences gene expression differently across tissues. The G allele may either increase or decrease the expression of specific genes depending on the cellular context, contributing to the phenotypic spectrum observed in cystic fibrosis.
 
 # Contributions
 Ranga Baminiwatte: Task D. Building a protein:protein interaction (PPI) network.
 
-Emily Willis: 
+Emily Willis: Task C: Found CTFR underlying Cystic Fibrosis and Task F: Constructing a hypothesis
 
 Alex McIntosh: Task B: Treatments of Cystic Fibrosis and Task C: Normal Molecular Functions of CFTR gene
 
-Ian Hendley: 
+Ian Hendley: Task B: Symptoms and Diagnosis of Cystic Fibrosis
 
-Gabriela Grant:
+Gabriela Grant: Task E: Found tissue-specific eQTLs DNA polymorphisms
